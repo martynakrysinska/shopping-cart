@@ -1,0 +1,26 @@
+img {
+  width: 150px;
+  height: 150px;
+}
+
+i {
+  font-size: 17px;
+  cursor: pointer;
+}
+
+.list-inline-item > div {
+  cursor: pointer;
+}
+
+#shop {
+  border: 1px dotted lightgray;
+}
+
+#cart {
+  border: 1px dotted lightgray;
+}
+
+#cart-list > li {
+  list-style: none;
+  border-bottom: 1px dotted gray;
+}
